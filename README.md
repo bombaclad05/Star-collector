@@ -38,15 +38,19 @@ Progress through all 10 levels to win the game
 Achieve the highest score possible
 
 🛠️ Installation & Requirements
-Prerequisites
-Python 3.7 or higher
+Prerequisites:
+Python 3.7+
 
 Pygame library
 
-Installation Steps
 bash
+# Install Pygame
+pip install pygame
+
+# Run the game
+python starcollector.py
 # Clone the repository
-git clone https://github.com/yourusername/galactic-star-collector.git
+git clone https://github.com/bombaclad05/galactic-star-collector.git
 
 # Navigate to the project directory
 cd galactic-star-collector
